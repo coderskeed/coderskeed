@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coderskeed
+- 👋 Hi, I’m @justarray
 - 👀 I’m interested in website development 
 - 🌱 I’m currently learning css and react.js
 - 💞️ I’m looking to collaborate on applications
